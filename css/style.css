@@ -80,6 +80,10 @@ body[data-theme='dark'] .logo img {
     font-size: .9rem;
 }
 
-.text-muted {
+body[data-theme='dark'] .text-muted {
     color: #cdcdcd !important;
+}
+
+body[data-theme='light'] .text-muted {
+    color: #9b9b9b !important;
 }
