@@ -95,8 +95,8 @@
       "date-updated": "August 12, 2022",
       "released": "August 1, 2010",
       "version": null,
-      "repo": "repo here",
-      "url": "url here",
+      "repo": null,
+      "url": null,
       "tech":[
         {
           "name": "HTML5, CSS3 y JavaScript"
@@ -114,8 +114,8 @@
       "date-updated": "August 12, 2022",
       "released": "August 1, 2010",
       "version": null,
-      "repo": "repo here",
-      "url": "url here",
+      "repo": null,
+      "url": null,
       "tech":[
         {
           "name": "HTML5, CSS3 y JavaScript"

@@ -43,6 +43,14 @@ body {
   text-decoration: none;
 }
 
+.cover-title {
+  font-size: 16vw;
+}
+
+.header-title {
+  font-size: 12vw;
+}
+
 /* -backgrounds- */
 
 .bg-yellow {

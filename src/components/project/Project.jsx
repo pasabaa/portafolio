@@ -6,7 +6,7 @@ return (
     <div className="card p-4 border-0">
         <div className="row">
             <div className="col-lg-4 col-12">
-                <img src={'src/assets/img/thumbnails/' + props.image} className="img-fluid rounded"
+                <img src={'img/thumbnails/' + props.image} className="img-fluid rounded"
                     alt={props.name} />
             </div>
             <div className="col-lg-8 col-12">
@@ -94,10 +94,16 @@ return (
                             <div className="mt-4">
                                 <p className='fw-bold'>Despliegue</p>
                                 <div className="d-flex flex-column flex-wrap gap-2">
+                                    {props.repo === null ? 
+                                    <p className="text-muted">Información no disponible</p> : 
+                                    <>
                                     <a rel={'noopener noreferrer'} target={'_blank'} className='text-dark' href={props.repo}><i className='bi bi-github'></i> <span
                                             className='badge bg-dark'>GitHub</span></a>
                                     <a rel={'noopener noreferrer'} target={'_blank'} className='text-dark' href={props.url}><i className='bi bi-globe'></i> <span
                                             className='badge bg-dark'>Online</span></a>
+                                    </>
+                                    }
+                                    
                                 </div>
                             </div>
 

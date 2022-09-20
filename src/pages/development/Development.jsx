@@ -1,7 +1,6 @@
 import Header from '../../components/header/Header'
 import Navbar from '../../components/navbar/Navbar'
 import Projects from '../../assets/data/projects.json'
-import { sectionDev } from '../../assets/img'
 import Project from '../../components/project/Project'
 
 export default function Development() {
@@ -10,7 +9,7 @@ export default function Development() {
 
     <Navbar/>
 
-    <Header section={sectionDev} desc={'Seccíón Desarrollo Web'} />
+    <Header section={'DESARROLLO WEB'} />
 
     <div className="continer mt-4">
         <div className="row justify-content-around m-0 p-4 gap-4">

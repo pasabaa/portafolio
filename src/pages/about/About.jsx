@@ -1,12 +1,11 @@
 import Header from '../../components/header/Header'
 import Navbar from '../../components/navbar/Navbar'
-import { sectionAbout } from '../../assets/img'
 
 export default function About() {
   return (
     <>
     <Navbar/>
-    <Header section={sectionAbout} desc={'Seccíón Sobre Mí'} />
+    <Header section={'SOBRE MÍ'} />
     
     <div className="continer mt-4">
         <div className="row justify-content-center p-4 m-0 gap-4">
