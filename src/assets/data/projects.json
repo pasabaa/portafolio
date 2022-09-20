@@ -1,0 +1,127 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Timeline",
+      "description": "Es una aplicación para crear simples líneas del tiempo, con títulos, eventos y fechas, teniendo distintos tipos de personalización.",
+      "image": "timeline.png",
+      "features": "Agrega títulos, textos e imágenes, además, cambia colores de los elementos.",
+      "author": "@pasabaa",
+      "date-updated": "Junio 21, 2022",
+      "released": "Junio 21, 2010",
+      "version": "1.1",
+      "repo": "https://github.com/pasabaa/timeline-vanilla ",
+      "url": "https://pasabaa.github.io/timeline-vanilla/",
+      "tech":[
+        {
+          "name": "HTML5, CSS3, JavaScript y Bootstrap"
+        }
+      ],
+      "versions": [
+        {
+          "id": 1,
+          "name": "Timeline Alpha",
+          "features": "Versión de prueba",
+          "author": "@pasabaa",
+          "date-updated": "Junio 17, 2022",
+          "version": "1.0a"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Game JS",
+      "description": "Juego desarrollado enteramente con JavaScript, es de género Clicker, teniendo distintos elementos en la jugabilidad.",
+      "image": "gamejs.png",
+      "features": "Primera versión del juego, con elementos básicos: salud, daño.",
+      "author": "@pasabaa",
+      "date-updated": "Mayo 20, 2022",
+      "released": "Junio 30, 2022",
+      "version": "1.0",
+      "repo": "https://github.com/pasabaa/clicker-game",
+      "url": "https://pasabaa.github.io/clicker-game/",
+      "tech":[
+        {
+          "name": "HTML5, CSS3 y JavaScript"
+        }
+      ],
+      "versions": [null]
+    },
+    {
+      "id": 3,
+      "name": "Message Generator",
+      "description": "Un generador de mensajes con interfaz de la aplicación de Google Mensajes, se tiene pensado en agregar más interfaces en un futuro.",
+      "image": "message.png",
+      "features": "Primera versión de la aplicación",
+      "author": "@pasabaa",
+      "date-updated": "Mayo 13, 2022",
+      "released": "Junio 30, 2022",
+      "version": "1.0",
+      "repo": "https://github.com/pasabaa/message-generator",
+      "url": "https://pasabaa.github.io/message-generator/",
+      "tech":[
+        {
+          "name": "HTML5, CSS3 y JavaScript"
+        }
+      ],
+      "versions": [null]
+    },
+    {
+      "id": 4,
+      "name": "Background Generator",
+      "description": "Esta es una herramienta sencilla para crear fondos con efecto blur y demás elementos.",
+      "image": "bg-blur.png",
+      "features": "Primera versión de la aplicación",
+      "author": "@pasabaa",
+      "date-updated": "Mayo 25, 2022",
+      "released": "Junio 30, 2022",
+      "version": "1.0",
+      "repo": "https://github.com/pasabaa/bg-blur-generator",
+      "url": "https://pasabaa.github.io/bg-blur-generator/",
+      "tech":[
+        {
+          "name": "HTML5, CSS3 y JavaScript"
+        }
+      ],
+      "versions": [null]
+    },
+    {
+      "id": 5,
+      "name": "Sitio para el DIF, Guanajuato, México",
+      "description": "Automatización de las diferentes secciones de su sitio web, además de crear un apartado administrativo para gestionar diferentes datos de dichas secci ones, por ejemplo, títulos, imágenes y texto de las noticias que se presentan. Por otra parte, se modificó completamente la UI/UX de todo el sitio, para dar un salto a un diseño más contemporáneo. Se trabajo principalmente con el framework de PHP: Laravel, y otras herramientas y lenguajes más, Bootstrap, JavaScript, CSS y HTML.",
+      "image": "sitio-dif.png",
+      "features": "lorem ipsum",
+      "author": "@pasabaa",
+      "date-updated": "August 12, 2022",
+      "released": "August 1, 2010",
+      "version": null,
+      "repo": "repo here",
+      "url": "url here",
+      "tech":[
+        {
+          "name": "HTML5, CSS3 y JavaScript"
+        }
+      ],
+      "versions": [null]
+    },
+    {
+      "id": 6,
+      "name": "Sitio para Presidencia Municipal, Guanajuato, México",
+      "description": "Actualización del sitio web de la presidencia municipal, enfocado principalmente en frontend y rediseñando la UI/UX respectivamente, gestionado también, por la parte administrativa en el backend, la edición, eliminación y adición de diferentes datos para cada sección del sitio, además de utilizar principalmente el framework de PHP: Laravel, del mismo modo, Bootstrap como framework de diseño responsivo, además de JavaScript, CSS y HTML.",
+      "image": "sitio-presidencia.png",
+      "features": "lorem ipsum",
+      "author": "@pasabaa",
+      "date-updated": "August 12, 2022",
+      "released": "August 1, 2010",
+      "version": null,
+      "repo": "repo here",
+      "url": "url here",
+      "tech":[
+        {
+          "name": "HTML5, CSS3 y JavaScript"
+        }
+      ],
+      "versions": [null]
+    }
+  ]
+}
